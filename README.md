@@ -24,7 +24,7 @@ The idea is to attach small sensors (IMUs) to the shinai or body to capture moti
 - Studying how rotational and linear acceleration data reflect strike mechanics  
 - Prototyping concepts for wearable sensor integration  
 
-**Why it’s interesting**
+**Why it’s interesting:**
 Kendo training relies heavily on qualitative feedback. I’m interested in whether quantitative sensing can support skill development without disrupting tradition.
 
 **Learning Outcome:**
