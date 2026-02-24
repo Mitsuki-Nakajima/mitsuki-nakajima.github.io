@@ -15,7 +15,9 @@ The idea is to attach small sensors (IMUs) to the shinai or body to capture moti
 
 
 ## TECH DEMOS
-### [Tag-based AR]
+### [Tag-based AR (ArUco Tag)](https://github.com/Mitsuki-Nakajima/Tag-based-AR/tree/main)
+A small tech demo that detects ArUco markers from a webcam feed and estimates each tag’s pose (position + rotation).  
+
 
 ## ABOUT ME
 I like building things that sit between the physical world and the digital one. Most of my work lives somewhere around XR, sensors, and perception. I enjoy figuring out how raw signals turn into meaningful interaction.
