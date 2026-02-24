@@ -5,7 +5,7 @@ XR / Computer Vision / Robotics
 
 ## PROJECTS
 ### [CODE BLOCKS - Educational Programming System](https://github.com/Mitsuki-Nakajima/CODE-BLOCKS)
-**Description:** CODE BLOCKS is a hands-on programming tool designed to teach basic Python logic using physical 3D-printed blocks instead of typed code. Each block represented a programming structure (loops, conditionals, etc.). Users could arrange the blocks physically, and a Unity application interpreted the configuration and visualized how the program would execute.
+CODE BLOCKS is a hands-on programming tool designed to teach basic Python logic using physical 3D-printed blocks instead of typed code. Each block represented a programming structure (loops, conditionals, etc.). Users could arrange the blocks physically, and a Unity application interpreted the configuration and visualized how the program would execute.
 
 ### [KENDOSENSE - Motion & Grip Analysis for Kendo (Active Project)](https://github.com/Mitsuki-Nakajima/KENDOSENSE)
 Kendo Sense started as a question: 
