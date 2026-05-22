@@ -7,6 +7,9 @@ XR / Computer Vision / Robotics
 ### [CODE BLOCKS - Educational Programming System](https://github.com/Mitsuki-Nakajima/CODE-BLOCKS)
 CODE BLOCKS is a hands-on programming tool designed to teach basic Python logic using physical 3D-printed blocks instead of typed code. Each block represented a programming structure (loops, conditionals, etc.). Users could arrange the blocks physically, and a Unity application interpreted the configuration and visualized how the program would execute.
 
+### [Visual Navigation Maze Solver](https://github.com/Mitsuki-Nakajima/vis_nav_player)
+A computer vision project focused on autonomous image-goal navigation in an unseen maze environment using only first-person RGB observations. The system builds a visual roadmap from exploration images, localizes the robot during navigation, identifies the target location from a goal image, and computes a path through the maze. To improve navigation stability, the system incorporates temporal smoothing, relocalization strategies, and graph-based shortest path planning to reduce oscillation and recovery failures during autonomous movement.
+
 ### [KENDOSENSE - Motion & Grip Analysis for Kendo (Active Project)](https://github.com/Mitsuki-Nakajima/KENDOSENSE)
 Kendo Sense started as a question: 
 > Can we measure technique in a sport that is usually judged only by feel?
