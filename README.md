@@ -7,6 +7,9 @@ XR / Computer Vision / Robotics
 ### [CODE BLOCKS - Educational Programming System](https://github.com/Mitsuki-Nakajima/CODE-BLOCKS)
 CODE BLOCKS is a hands-on programming tool designed to teach basic Python logic using physical 3D-printed blocks instead of typed code. Each block represented a programming structure (loops, conditionals, etc.). Users could arrange the blocks physically, and a Unity application interpreted the configuration and visualized how the program would execute.
 
+### [Shared Spatial Anchor System for Mixed Reality](https://github.com/Mitsuki-Nakajima/Shared-Spatial-Anchor
+A mixed reality project focused on creating synchronized shared virtual spaces using Meta Quest 3 and Unity. The system allows multiple users in different physical locations to interact within the same spatially anchored MR environment by calibrating and synchronizing virtual coordinates across devices. Developed as part of the “Metaverse for Education” project, the environment recreates the NYU MakerSpace to support collaborative training and remote interaction in immersive educational spaces.
+
 ### [Visual Navigation Maze Solver](https://github.com/Mitsuki-Nakajima/vis_nav_player)
 A computer vision project focused on autonomous image-goal navigation in an unseen maze environment using only first-person RGB observations. The system builds a visual roadmap from exploration images, localizes the robot during navigation, identifies the target location from a goal image, and computes a path through the maze. To improve navigation stability, the system incorporates temporal smoothing, relocalization strategies, and graph-based shortest path planning to reduce oscillation and recovery failures during autonomous movement.
 
